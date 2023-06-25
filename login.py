@@ -11,7 +11,7 @@ def authent(username, password):
 def login():
     st.title("Login Page")
     st.write("Silakan masuk menggunakan username dan password Anda.")
-
+    st.write(pd.__version__)
     username = st.text_input("Username")
     password = st.text_input("Password", type="password")
 
