@@ -72,7 +72,6 @@ partd==1.3.0
 patsy==0.5.3
 pickleshare==0.7.5
 Pillow==9.2.0
-pipenv==2022.9.8
 pipreqs==0.4.13
 platformdirs==2.5.2
 plspm==0.5.6
