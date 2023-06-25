@@ -1,5 +1,5 @@
 import streamlit as st
-!pip install pandas == 1.4.4
+pip install pandas == 1.4.4
 import pandas as pd
 # Informasi pengguna yang valid
 def authent(username, password):
